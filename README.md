@@ -1,2 +1,2 @@
 # saturdays
-Documenting every idea that gets fondled with on *Saturdays*
+Documenting every idea that gets fondled with, on *Saturdays*
